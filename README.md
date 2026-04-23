@@ -9,7 +9,7 @@
 
 ## 📖 Overview
 
-**Knox** (also known as the Antigravity Project) is a production-ready, PWA-based event discovery and management platform tailored for the Google Cloud ecosystem in India. It provides a seamless, scalable, and premium dark-themed experience for both attendees and organizers.
+**Knox** is a production-ready, PWA-based event discovery and management platform tailored for the Google Cloud ecosystem in India. It provides a seamless, scalable, and premium dark-themed experience for both attendees and organizers.
 
 Whether it's an offline summit, an interactive workshop, a hackathon, or an online webinar, Knox centralizes all events into a single, gamified, and highly interactive interface.
 
